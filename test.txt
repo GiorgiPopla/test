@@ -160,3 +160,5 @@ $ git commit -m "text update"
 
 Giorgi Poplavski@G1P0P0INTUPA1144 MINGW64 ~/Desktop/gittest (master)
 $ gigit gi
+
+new shit
